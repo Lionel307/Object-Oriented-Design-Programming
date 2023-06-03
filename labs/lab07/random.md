@@ -1,0 +1,2 @@
+- Run the battle 100 times and count the number of wins and losses 
+- should be around 50 each since the chance of the hero winning is 0.5
